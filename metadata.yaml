@@ -1,0 +1,34 @@
+_repo: The-Exploring-Expedition-to-the-Rocky-Mountains-Oregon-and-California-To-which-is-Added-a-Desc__9294
+creator:
+  author:
+    agent_name: Frémont, John Charles
+    aliases:
+    - Fremont, John Charles
+    - Frémont, J. C. (John Charles)
+    birthdate: 1813
+    deathdate: 1890
+    gutenberg_agent_id: '3001'
+    url: http://www.gutenberg.org/2009/agents/3001
+description: A report on an exploration of the country lying between the Missouri
+  River and the Rocky Mountains on the line of the Kansas and Great Platte Rivers
+  -- Astronomical observations (p. 120-121) -- Report of the exploring expedition
+  to Oregon and North California in the years 1843-'44 -- Gold regions of California.
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Discovery and exploration'
+- !lcsh 'California -- Gold discoveries'
+- !lcsh 'Pacific States -- Description and travel'
+- !lcsh 'Rocky Mountains'
+- !lcc 'F590.3'
+- !lcsh 'West (U.S.) -- Description and travel'
+title: "The Exploring Expedition to the Rocky Mountains, Oregon and California\r\n\
+  To which is Added a Description of the Physical Geography of California, with Recent\
+  \ Notices of the Gold Region from the Latest and Most Authentic Sources"
+url: http://www.gutenberg.org/ebooks/9294
