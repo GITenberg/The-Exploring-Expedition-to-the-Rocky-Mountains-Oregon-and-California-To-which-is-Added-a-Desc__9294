@@ -1,4 +1,8 @@
 _repo: The-Exploring-Expedition-to-the-Rocky-Mountains-Oregon-and-California-To-which-is-Added-a-Desc__9294
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Frémont, John Charles
@@ -13,6 +17,8 @@ description: A report on an exploration of the country lying between the Missour
   River and the Rocky Mountains on the line of the Kansas and Great Platte Rivers
   -- Astronomical observations (p. 120-121) -- Report of the exploring expedition
   to Oregon and North California in the years 1843-'44 -- Gold regions of California.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9294#The-Exploring-Expedition-to-the-Rocky-Mountains-Oregon-and-California-To-which-is-Added-a-Desc_
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
